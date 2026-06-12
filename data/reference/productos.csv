@@ -1,1 +1,21 @@
 producto_id,producto,categoria,precio
+1,Leche Entera,Lacteos,1.25
+2,Leche Desnatada,Lacteos,1.20
+3,Queso Gouda,Lacteos,3.50
+4,Yogur Natural,Lacteos,0.80
+5,Coca Cola,Bebidas,1.80
+6,Agua Mineral,Bebidas,0.60
+7,Zumo Naranja,Bebidas,1.50
+8,Cafe Molido,Bebidas,4.20
+9,Pan Blanco,Panaderia,0.95
+10,Pan Integral,Panaderia,1.10
+11,Croissant,Panaderia,1.20
+12,Manzana,Frutas,0.50
+13,Platano,Frutas,0.40
+14,Naranja,Frutas,0.45
+15,Tomate,Verduras,0.70
+16,Lechuga,Verduras,1.00
+17,Patata,Verduras,0.35
+18,Pechuga Pollo,Carnes,6.50
+19,Carne Picada,Carnes,5.80
+20,Hamburguesa Vacuno,Carnes,4.90
