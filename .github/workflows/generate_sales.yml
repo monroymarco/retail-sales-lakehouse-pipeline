@@ -1,0 +1,20 @@
+name: Generate Daily Sales
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-sales:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Sales Generator
+        run: python scripts/generate_daily_sales.py
