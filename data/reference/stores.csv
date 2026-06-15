@@ -1,4 +1,4 @@
-tienda_id,tienda,ciudad
+store_id,store,city
 STR-001,SuperMarket Centro,Madrid
 STR-002,SuperMarket Norte,Barcelona
 STR-003,SuperMarket Levante,Valencia
